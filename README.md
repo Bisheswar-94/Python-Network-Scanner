@@ -34,4 +34,5 @@ Clone the repository:
 git clone https://github.com/Bisheswar-94/Python-Network-Scanner.git
 
 
-,,, Do Ipconfig then use it by ur ip address then u will get the real taste of this code .
+,,, Do Ipconfig
+then use it by ur ip address then u will get the real taste of this code .
